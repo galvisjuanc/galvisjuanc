@@ -1,0 +1,66 @@
+Popular Web Dev Stacks
+
+1. MERN: MongoDB, Express, React, NodeJS
+2. MEVN: MongoDB, Express, Vue.JS, NodeJS
+3. MEAN: MongoDB, Express, Angular.JS, NodeJS
+4. LAMP: Linux, Apache, MySQL, PHP
+5. LEMP: Linux, NGinx, MySQL, PHP
+6. WAMP: Windows, Apache, MySQL, PHP
+
+Full Stack Java Developer
+
+1. Frontend
+1.1 Basic: HTML, CSS, JavaScript
+1.2 Frameworks: Angular, ReactJS, VueJS
+1.3 IDE/Editor: VS Code
+
+2. Backend
+2.1 Core Logic: Core Java
+2.2 Restful Webservices: Springboot, JerseyRest, RestEasy
+2.3 JPA Impl: Hibernate, EclipseLink
+2.4 Spring Security
+
+3. SQL Database
+3.1 PostgreSQL
+3.2 MS SQL
+3.3 MySQL
+3.4 Oracle
+
+4. NO-SQL Database
+4.1 MongoDB
+4.2 ElasticSearch
+
+5. Tools
+5.1 Jenkins
+5.2 Docker
+5.3 GIT
+5.4 Eclipse & IntelliJ IDEA
+
+Websites for Devs
+
+1. Jobs: LinkedIn, Upwork, Freelancer
+2. Tutorials: Smashing Magazine, Google developers, Freecodecomp
+3. News: Reddit, DEV Community, Hacker News
+4. Networking: Github, Twitter, CodePen
+5. Challenges: Hackerrank, Leetcode, Codewars
+
+Websites To Learn Web Development
+
+1. HTML --------> html.com
+2. CSS ---------> css-tricks.com
+3. JAVASCRIPT --> javascript.info
+4. BOOTSTRAP ---> getbootstrap.com
+5. REACT -------> reactjs.org
+6. PHP ---------> php.net
+7. MySQL -------> mysql.com
+8. API ---------> rapidapi.com/learn
+9. Angular -----> angularjs.org
+10. Node.js ----> nodejs.org
+
+Inicios en Javascript
+
+1. Variables, Operadores, Funciones, Tipos de Datos Básicos
+2. Condicionales, Bucles, Array
+3. Scope/this , Object, POO, DOM, Arrow Functions
+4. To Do List, Calculadora
+5. Promesas, Async/Await, Callbacks
