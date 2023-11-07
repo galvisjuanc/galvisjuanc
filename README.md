@@ -3,6 +3,7 @@
 - 🌱 I have worked with programming languages such as Java, Python, Kotlin; Structured Query Languages with MySQL and PostgreSQL; backend frameworks (Spring, Springboot, Spring Data). I'm currently learning C#.
 - 💞️ I’m looking to collaborate on some projects someday. Meanwhile, I'll learn as much as I can to be the help you need.
 - 📫 How to reach me ...
+- LinkedIn --> https://www.linkedin.com/in/juancgalvisc/
 
 <!---
 galvisjuanc/galvisjuanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
