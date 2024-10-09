@@ -2,7 +2,7 @@
 - 👀 I’m interested in Martial Arts (Hapkido CKA), Music (Guitar, Bass, Piano), hanging out with friends, renewable energies and traveling all around the world.
 
 > [!NOTE]
-> Software Skills: Java, Python, Kotlin; Structured Query Languages with MySQL and PostgreSQL; backend frameworks (Spring, Springboot, Spring Data). I'm currently learning C#.
+> Software Skills: Java, Python, Kotlin; Structured Query Languages with MySQL and PostgreSQL; backend frameworks (Spring, Springboot, Spring Data, JPA, JDBC, SpringSecurity). 
 
 > [!IMPORTANT]
 > Social Networks:
