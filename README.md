@@ -1,6 +1,4 @@
 > I’m Juan Camilo Galvis Cuéllar (@galvisjuanc).
-> Bogotá, Colombia. 
-> I'm 32. 
 > Electronic Engineer interested in Software Development and working currently as Backend Java Developer.
 
 
