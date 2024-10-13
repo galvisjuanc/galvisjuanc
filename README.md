@@ -3,7 +3,7 @@
 
 
 > [!NOTE]
-> Software Skills: Java, Python, Kotlin; Structured Query Languages with MySQL and PostgreSQL; backend frameworks (Spring, Springboot, Spring Data, JPA, JDBC and SpringSecurity). 
+> Software Skills: Java, Python, Kotlin; Database Knowledge using Structured Query Languages (MySQL - PostgreSQL) ; backend frameworks (Spring, Springboot, Spring Data, JPA, JDBC and SpringSecurity). 
 
 > [!IMPORTANT]
 > Social Networks:
