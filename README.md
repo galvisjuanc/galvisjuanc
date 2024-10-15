@@ -12,9 +12,9 @@
 > [!NOTE]
 > I’m interested in Martial Arts (Hapkido CKA), Music (Guitar, Bass, Piano), hanging out with friends, renewable energies and traveling all around the world.
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars&show=prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars&show=prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!---
 galvisjuanc/galvisjuanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
