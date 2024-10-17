@@ -54,7 +54,7 @@
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-<h3 align="left">💻   Most Languages Used here in my personal repository :</h3>
+<h3 align="left">💻   Most languages used here:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
