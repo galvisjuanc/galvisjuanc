@@ -1,4 +1,4 @@
-<h1 align="center"> Greetings 👋</h1>
+<h1 align="center"> Greetings / Saludos 👋</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
