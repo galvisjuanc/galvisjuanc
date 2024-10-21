@@ -46,9 +46,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=galvisjuanc&locale=en&mode=daily&theme=dark#gh-dark-mode-only&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&hide_border=false&border_radius=5&order=3)](https://git.io/streak-stats)
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&hide_border&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
