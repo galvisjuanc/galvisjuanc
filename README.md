@@ -2,7 +2,7 @@
 
 <h3 align="left">👩‍💻 About Me / Sobre Mi</h3>
 
-<p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia.<br><br>- 🔭 I’m an Electronic Engineer interested in Software Development and currently working as Backend Java Developer. <br>- 📚 I'm currently learning Kotlin and C# <br>- ⚡ My Sofware Skills are:  Java and Python; Database Knowledge using Structured Query Languages (MySQL - PostgreSQL); Backend frameworks (Spring, Springboot, Spring Data, JPA, JDBC and SpringSecurity). </p>
+<p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia.<br><br>- 🔭 I’m an Electronic Engineer interested in Software Development and currently working as Backend Java Developer. <br>- 📚 I'm currently learning Kotlin and C#. <br>- ⚡ My Sofware Skills are:  Java and Python; Database Knowledge using Structured Query Languages (MySQL - PostgreSQL); Backend frameworks (Spring, Springboot, Spring Data, JPA, JDBC and SpringSecurity). </p>
 
 <h3 align="left">👀 Social Networks</h3>
 <div align="left">
