@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Languages and Programming tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
