@@ -4,7 +4,7 @@
 
 <p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴.<br><br>- 🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br>- 📚 I'm learning Kotlin, Android, C#, NoSQL, DevOps and Frontend Foundations (HTML and CSS).<br>- ⚡ Software Skills: Java and Python; Database with Structured Query Languages (MySQL - SQLite - PostgreSQL); Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, Java Database Connectivity and SpringSecurity).</p>
 
-<h3 align="left">👀 Social Networks</h3>
+<h3 align="left">👀 Social Networks 👀</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/juancgalvisc/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
