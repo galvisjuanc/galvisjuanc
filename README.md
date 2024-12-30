@@ -2,7 +2,7 @@
 
 <h3 align="left">👩‍💻 About Me 👩‍💻</h3>
 
-<p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴.<br><br>- 🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br>- 📚 I'm learning Kotlin, Android, C#, NoSQL, DevOps and Frontend Foundations (HTML and CSS).<br>- ⚡ Software Skills: Java and Python; Database with Structured Query Languages (MySQL - SQLite - PostgreSQL); Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, Java Database Connectivity and SpringSecurity); Tools: IntelliJ, DataGrip, Postman, Jaspersoft, Microsoft Visual Studio 2022.</p>
+<p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia.<br><br>- 🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br>- 📚 I'm learning Kotlin, Android, C#, NoSQL, DevOps and Frontend Foundations (HTML and CSS).<br>- ⚡ Software Skills: Java and Python; Database with Structured Query Languages (MySQL - SQLite - PostgreSQL); Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, Java Database Connectivity and SpringSecurity); Tools: IntelliJ, DataGrip, Postman, Jaspersoft, Microsoft Visual Studio 2022.</p>
 
 <h3 align="left">👀 Social Networks 👀</h3>
 <div align="left">
@@ -54,8 +54,8 @@
 
 <h3 align="left">💻  Programming Languages  💻</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=9&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=9theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=10theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!---
