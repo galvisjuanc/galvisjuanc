@@ -46,7 +46,7 @@
 
 <h3 align="left">🔥   Statistics    🔥</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&border_radius=11)](https://git.io/streak-stats)
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&hide_border&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
