@@ -54,8 +54,8 @@
 
 <h3 align="left"> 💻  Programming Languages  💻 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=9&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=9&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvisjuanc&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!---
