@@ -4,7 +4,7 @@
 
 <p align="left">I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴.<br><br> 
   - 🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br>
-  - 📚 I'm learning Kotlin, Android, C#, NoSQL DB (Mongo DB), DevOps and Frontend Foundations (HTML, CSS and Javascript) and I'm preparing myself to pass the OCA, OCP and Oracle certifications.<br> 
+  - 📚 I'm learning Kotlin, Android, C#, NoSQL DB (Mongo DB), DevOps and Frontend Foundations (HTML, CSS and Javascript) and I'm preparing myself to pass the OCA, OCP and Oracle certifications. <br> 
   - ⚡ Software Skills: Java and Python ; 
         Database with Structured Query Languages (MySQL - SQLite - PostgreSQL); 
         Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity) ; 
