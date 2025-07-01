@@ -7,7 +7,7 @@
   - 📚 I'm learning Kotlin, Android, C#, NoSQL DB (Mongo DB), DevOps and Frontend Foundations (HTML, CSS and Javascript) and I'm preparing myself to pass the OCA, OCP and Oracle certifications.<br> 
   - ⚡ Software Skills: Java and Python; 
         Database with Structured Query Languages (MySQL - SQLite - PostgreSQL) ; 
-      Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity); 
+       Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity); 
         Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2022. </p>
 
 <h3 align="left"> 👀 Social Networks 👀 </h3>
