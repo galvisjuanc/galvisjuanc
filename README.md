@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h3 align="left"> 🛠 Languages and Programming Tools  </h3>
+<h3 align="left"> 🛠  Languages and Programming Tools  </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="60" alt="java logo"  />
   <img width="12" />
