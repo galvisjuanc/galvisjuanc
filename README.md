@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥 Hello  Github 🔥  </h1>
+<h1 align="center"> 🔥 Hello Github 🔥  </h1>
 
 <h3 align="left"> 😁  About Me 😁 </h3>
 
