@@ -1,6 +1,6 @@
 <h1 align="center">  🔥 Hello Github 🔥 </h1>
 
-<h3 align="left">  😁 About Me 😁 </h3>
+<h3 align="left">  😁 About Me 😁  </h3>
 
 
 <p align="left">  I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴.<br><br> 
