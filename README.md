@@ -51,7 +51,7 @@
   <img width="12" />
 </div>
 
-<h3 align="left"> 🔥 Statistics 🔥 </h3>
+<h3 align="left">  🔥 Statistics 🔥 </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
