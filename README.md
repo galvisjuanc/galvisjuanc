@@ -8,10 +8,10 @@
   - 📚 I'm learning Kotlin,Android, C# , NoSQL DB (Mongo DB),DevOps and Frontend Foundations (HTML, CSS and Javascript) and I'm preparing myself to pass the OCA, OCP and Oracle certifications.<br> 
   - ⚡ Software Skills: Java and Python ; 
         Database with Structured Query Languages (MySQL - SQLite - PostgreSQL); 
-       Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity); 
+       Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity) ; 
        Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2022.</p>
 
-<h3 align="left"> 👀 Social Networks  👀  </h3>
+<h3 align="left">  👀 Social Networks  👀  </h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/juancgalvisc/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
