@@ -6,7 +6,7 @@
 <p align="left"> I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴. <br><br> 
   - 🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br> 
   - 📚 I'm learning Kotlin,Android, C# , NoSQL DB (Mongo DB),DevOps and Frontend Foundations (HTML, CSS and Javascript) and I'm preparing myself to pass the OCA, OCP and Oracle certifications.<br> 
-  - ⚡ Software Skills: Java and Python; 
+  - ⚡ Software Skills: Java and Python ; 
         Database with Structured Query Languages (MySQL - SQLite - PostgreSQL) ; 
        Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity) ; 
        Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2022.</p>
@@ -30,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="60" alt="json logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="60" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="60" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="60" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="60" alt="intelliJ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="50" height="60" alt="datagrip logo"  />
