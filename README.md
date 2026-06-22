@@ -10,7 +10,7 @@
        Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2026.   </p>
 
 <h3 align="left">  👀  Social  Networks  👀  </h3>
-<div align="left">
+<div align="left"> 
   <a href="https://www.linkedin.com/in/juancgalvisc/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -52,7 +52,7 @@
 
 <h3 align="left"> 🔥  Statistics 🔥 </h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=galvisjuanc&theme=dark&border_radius=9)](https://git.io/streak-stats)
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&hide_border&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvisjuanc&hide=contribs,stars,reviews&hide_border&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
