@@ -10,7 +10,7 @@
        Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity) ; 
        Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2026.   </p>
 
-<h3 align="left">  👀  Social  Networks  👀  </h3>
+<h3 align="left">   👀  Social  Networks  👀  </h3>
 
 <div align="left"> 
   
