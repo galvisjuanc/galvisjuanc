@@ -1,16 +1,17 @@
-<h1 align="center">  🔥 Hello Github  🔥 </h1> 
+<h1 align="center"> 🔥 Hello Github 🔥 </h1> 
 
-<h3 align="left">   😁  About  Me  😁 </h3>
+<h3 align="left"> 😁 About  Me 😁 </h3>
 
 <p align="left"> I'm Juan Camilo Galvis Cuéllar (@galvisjuanc) from Bogotá, Colombia 🇨🇴. <br><br> 
   -  🔭 I’m an Electronic Engineer interested in Software Development and I'm currently working as a Backend Java Developer.<br> 
   -  📚 I'm learning Kotlin,Android, C#, NoSQL DB (Mongo DB), Claude, Gemini. <br> 
   -  ⚡ Software Skills: Java and Python; 
-       Database with Structured Query Languages (MySQL - SQLite - PostgreSQL) ;
-       Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity) ;
+       Database with Structured Query Languages (MySQL - SQLite - PostgreSQL);
+       Backend frameworks (Spring, Springboot, Spring Data, JPA, Hibernate, ORM, Java Database Connectivity and SpringSecurity);
        Tools: IntelliJ, Visual Studio Code, DataGrip, Jira, Postman, Jaspersoft, Splunk, Notion and Microsoft Visual Studio 2026.</p>
 
-<h3 align="left">   👀   Social  Networks  👀  </h3>
+
+<h3 align="left"> 👀 Social Networks 👀 </h3>
 
 <div align="left"> 
   
